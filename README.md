@@ -1,5 +1,5 @@
-<h1>Full Stack project - AirBnb Clone</h1>
-<h3>An web app that lets you add Listings to our website. Its attractive interface lets users to choose there holiday destinations</h3>
+<h1>Wanderlust-Explorer</h1>
+<h3>Wanderlust-Explorer is a user-friendly and feature-rich travel website designed to help users find and add holiday destinations to explore. With its intuitive and attractive interface, users can easily choose their next adventure, explore destinations, and create listings. This project leverages modern web technologies to provide a seamless experience from front-end interactions to back-end data management and deployment.</h3>
 <p><b>Technologies Used:</b></p>
 <ol>
   <li><em>HTML-CSS-JS</em>: EJS Templating for frontend along with <em>BOOTSTRAP</em> framework</li>
