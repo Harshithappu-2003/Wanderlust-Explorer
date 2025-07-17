@@ -56,3 +56,5 @@ This project follows the **Model-View-Controller (MVC)** architecture pattern, w
 - **Model**: Represents the data structure and interaction with the database (e.g., holiday listings, user profiles).
 - **View**: Represents the user interface (HTML pages rendered using EJS templates).
 - **Controller**: Handles the logic of the application, including processing requests, interacting with the models, and rendering views.
+
+<img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/ce6f8ad9-f086-45a9-b12f-2bab5b3b71b8" />
